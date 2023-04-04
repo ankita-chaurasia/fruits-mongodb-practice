@@ -1,0 +1,16 @@
+{
+  "name": "fruits-mongodb-practice",
+  "version": "1.0.0",
+  "description": "A practice project to get familiar with mongoDB basic concepts.",
+  "main": "mongo-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankita Chaurasia",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1"
+  }
+}
